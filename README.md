@@ -36,6 +36,8 @@ On the notes page there is a main area where the user enters the title of the no
 
 ![image](https://user-images.githubusercontent.com/75341811/117562117-7d5fa280-b094-11eb-81d9-5ae7bcc9f356.png)
 
+![image](https://user-images.githubusercontent.com/75341811/117562153-b435b880-b094-11eb-9334-f45a35b9ea53.png)
+
   
  
 

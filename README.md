@@ -33,6 +33,11 @@ This is a Nodejs  based  note taker application running via a node express serve
  The first page is a landing page where there user is greeted and invited to use the note taker application. 
 On the notes page there is a main area where the user enters the title of the note followed by the main text of the note. When both of these are entered a save button appears in the top right hand corner to allow the user to save the note. Once the note is saved this appears in a list of saved noted on the left side of the screen. Each note is accompanied by a delete icon which allows the user to delete the specific note. 
 . Please see pic 
+
+![image](https://user-images.githubusercontent.com/75341811/117562117-7d5fa280-b094-11eb-81d9-5ae7bcc9f356.png)
+
+![image](https://user-images.githubusercontent.com/75341811/117562153-b435b880-b094-11eb-9334-f45a35b9ea53.png)
+
   
  
 
